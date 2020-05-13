@@ -17,3 +17,4 @@ def swap_elements(arr)
   arr[2] = first_var
   arr
 end
+
