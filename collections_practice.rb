@@ -37,4 +37,4 @@ def sum_array(num)
 end
 
 def add_s(words)
-  
+  words.collect {|word| 
