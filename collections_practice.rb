@@ -31,3 +31,5 @@ end
 def find_a(arr)
   arr.find_all {|thing| thing[0] == "a"}
 end
+
+def
