@@ -41,5 +41,6 @@ def add_s(words)
     if words[1] == word 
     word
   else
+    word + "s"
   end
 end
