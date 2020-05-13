@@ -6,4 +6,6 @@ def sort_array_desc(num)
   num.sort {|a, b| b <=> a} 
 end
 
-def 
+def sort_array_char_count(num)
+  
+end
