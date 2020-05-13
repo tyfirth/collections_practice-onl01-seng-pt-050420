@@ -2,4 +2,6 @@ def sort_array_asc(num)
 num.sort 
 end
 
-def 
+def sort_array_desc(num)
+  
+end
